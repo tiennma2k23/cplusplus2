@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 #define int long long 
 using namespace std;
-const int maxn=2e5+1,inf=1e9+1;
+const int maxn=1e6+1,inf=1e9+1;
 #define find _find
 int c[maxn],rt[maxn];
 struct nodes
