@@ -1,4 +1,5 @@
 #include <bits/stdc++.h>
+#define data _data
 #define int long long
 #define II pair<int, int>
 #define fi first
